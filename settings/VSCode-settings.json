@@ -1,0 +1,13 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 13,
+    "editor.insertSpaces": false,
+    "editor.smoothScrolling": true,
+    "editor.suggestSelection": "first",
+    "editor.quickSuggestionsDelay": 0,
+    "editor.glyphMargin": false,
+    "workbench.activityBar.location": "top",
+    "editor.inlayHints.fontFamily": "JetBrains Mono"
+}
