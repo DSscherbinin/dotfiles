@@ -9,7 +9,9 @@ packages=(
     "python",
 	"bat",
 	"ruff",
-	"thefuck"
+	"thefuck",
+    "zsh-autosuggestions",
+    "zsh-syntax-highlighting"
 )
 # Loop over the array to install each application.
 for package in "${packages[@]}"; do

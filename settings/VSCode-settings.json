@@ -10,5 +10,9 @@
     "editor.glyphMargin": false,
     "workbench.activityBar.location": "top",
     "editor.inlayHints.fontFamily": "JetBrains Mono",
-    "editor.scrollBeyondLastLine": true
+    "python.defaultInterpreterPath": "/Users/dmitrij/newrepo/venv",
+    "editor.scrollBeyondLastLine": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.minimap.enabled": false,
+    "workbench.statusBar.visible": false
 }
